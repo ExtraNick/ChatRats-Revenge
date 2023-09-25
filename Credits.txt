@@ -1,0 +1,27 @@
+Based off of Code with Russ's turn based pygame tutorial,
+Link: https://www.youtube.com/watch?v=Vlolidaoiak
+
+
+Background floor original files by ansimuz,
+Link: https://itch.io/queue/c/313331/gothicvania?game_id=255239
+
+Background image (with the crosses) by Lief_EN,
+Link: https://twitter.com/Lief_EN
+
+Sippie icon used for potions by Melodream,
+Link: https://twitter.com/melodream_
+
+Wiggly seal by Knife Jaw,
+Link: https://twitter.com/jaw_knife
+
+RIP Bozo coffin by FreeGreenHD,
+Link: https://www.youtube.com/watch?v=nahpLigJcyc
+
+Persona 5 cut-in (boss transition) by Vermillionaire,
+Link: https://www.youtube.com/@Vermilionaire
+
+RIP Bozo green screen by Video Junkiee,
+Link: https://www.youtube.com/watch?v=X7CjkiKXKwg
+
+And Finally, 
+Thank you Lucy Pyre for being the source of inspiration for this project
