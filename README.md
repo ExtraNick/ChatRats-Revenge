@@ -1,5 +1,5 @@
 # ChatRats-Revenge
-An open source Turn-based fan game written for Lucy Pyre using Python's pygame library.
+An open source Turn-based fan game written for Lucy Pyre using Python's pygame library. <br>
 Feel free to modify the project as you wish, since it's open source.
 
 The game is based off of [Code with Russ's turn based battle game tutorial](https://www.youtube.com/watch?v=Vlolidaoiak&list=PLjcN1EyupaQnvpv61iriF8Ax9dKra-MhZ)
