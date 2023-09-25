@@ -12,7 +12,7 @@ The game is based off of [Code with Russ's turn based battle game tutorial](http
 5. Run Chatrat's Revenge
 
 ### For modifying the game's files
-1. Have Python installed in your machine.
+1. Have Python installed in your machine. (version 3.11.5 used for this project)
 2. Have pygame library installed in your machine.
 3. Use your desired IDE capable of running .py files
 4. Open Chatrat's Revenge.py and modify as you see fit
