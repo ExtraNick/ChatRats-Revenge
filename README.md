@@ -4,6 +4,9 @@ Feel free to modify the project as you wish, since it's open source.
 
 The game is based off of [Code with Russ's turn based battle game tutorial](https://www.youtube.com/watch?v=Vlolidaoiak&list=PLjcN1EyupaQnvpv61iriF8Ax9dKra-MhZ)
 
+Project showcase can be seen [here](https://www.youtube.com/watch?v=GTvbP4Bf_4E)
+and the full game can be seen in [this playlist](https://www.youtube.com/playlist?list=PLvEl1ePZrO8R4JzohZSgixmPI6q2zlUFF)
+
 # Installation instructions
 1. At the top right of this repository, click the "code" green button.
 2. Click download ZIP at the bottom of the dropdown menu to download the game's files.
